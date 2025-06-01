@@ -49,10 +49,13 @@
 ---
 
 ### 📈 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhsolanki1694&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhsolanki1694&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=solanki018&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=solanki018&theme=radical" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solanki018&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
