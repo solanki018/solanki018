@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sourabh" target="_blank">
+  <a href="https://linkedin.com/in/solankisourabh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sourabhsolanki1694@gmail.com">
